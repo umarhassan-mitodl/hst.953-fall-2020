@@ -39,7 +39,7 @@
   },
   "course_title": "Collaborative Data Science for Healthcare",
   "hide_download": true,
-  "course_description": "This course provides an introductory survey of data science tools in healthcare.\u00a0It was created by members of [MIT Critical Data](https://criticaldata.mit.edu/), a global consortium consisting of healthcare practitioners, computer scientists, and engineers from academia, industry, and government, that seeks to place data and research at the front and center of healthcare operations.\n\nThe most daunting global health issues right now are the result of interconnected crises. In this course, we highlight the importance of a multidisciplinary approach to health data science. It is intended for front-line clinicians and public health practitioners, as well as computer scientists, engineers, and social scientists, whose goal is to understand health and disease better using digital data captured in the process of care.\n\nWhat you'll learn:\n\n*   Principles of data science as applied to health\n*   Analysis of electronic health records\n*   Artificial intelligence and machine learning in healthcare\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "course_description": "This course provides an introductory survey of data science tools in healthcare.\u00a0It was created by members of {{% resource_link \"2cb9ce84-b050-4796-9e90-e657d71a6607\" \"MIT Critical Data\" %}}, a global consortium consisting of healthcare practitioners, computer scientists, and engineers from academia, industry, and government, that seeks to place data and research at the front and center of healthcare operations.\n\nThe most daunting global health issues right now are the result of interconnected crises. In this course, we highlight the importance of a multidisciplinary approach to health data science. It is intended for front-line clinicians and public health practitioners, as well as computer scientists, engineers, and social scientists, whose goal is to understand health and disease better using digital data captured in the process of care.\n\nWhat you'll learn:\n\n*   Principles of data science as applied to health\n*   Analysis of electronic health records\n*   Artificial intelligence and machine learning in healthcare\n\nThis course is part of the {{% resource_link \"a3e99fce-be15-4904-a8cb-3d06662ab808\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
   "department_numbers": [
     "HST"
   ],
@@ -49,7 +49,6 @@
     "content": "952a23c7-a63a-0e40-311a-bc58120413db",
     "website": "hst-953-collaborative-data-science-for-healthcare-fall-2020"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "6aa1b421-8065-4971-9788-17bc8fe5becd",
   "site_short_id": "hst.953-fall-2020",
